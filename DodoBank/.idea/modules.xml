@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DodoBank.iml" filepath="$PROJECT_DIR$/DodoBank.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DodoBank.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DodoBank.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DodoBank.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DodoBank.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DodoBank.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DodoBank.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DodoBank.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DodoBank.app.unitTest.iml" />
     </modules>
   </component>
 </project>
